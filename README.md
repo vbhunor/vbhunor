@@ -28,6 +28,15 @@
     
 </ul>
 
+## Future plans
+<ul>
+  <li>Programming projects, learn more languages</li>
+  <li>Going to a high-level maths and IT-orientated university</li>
+  <li>Work in the IT or the Financial sector </li>
+  <li>Get more connections with people who has similar interests as me</li>
+</ul>
+
+
 <!--
 **vbhunor/vbhunor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
