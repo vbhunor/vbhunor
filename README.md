@@ -1,5 +1,5 @@
 ## Who I am?
-##My name is Vigh-Bucz Hunor, but people call me Hunor.
+## My name is Vigh-Bucz Hunor, but people call me Hunor.
 
 
 ## About me
