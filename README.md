@@ -1,4 +1,8 @@
-## Hi there 👋
+## Who I am?
+###My name is Vigh-Bucz Hunor, but people call me Hunor.
+
+## About me
+<hr>
 
 <!--
 **vbhunor/vbhunor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
