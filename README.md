@@ -9,7 +9,7 @@
                                                                                                                                                                                         
 </ul>
 
-##What do I do?
+## What do I do?
 <ul>
   <li>I'm studying</li>
 <ul>
@@ -27,7 +27,7 @@
   <li>I'm learning high-level maths, but also a fan of literature and history.</li>
     
 </ul>
-##
+
 <!--
 **vbhunor/vbhunor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
